@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cho Atsu 2",
+  "base_artist": "BFN TOKYOTRILL、Watson、NENE",
+  "createdAt": "2026-03-29T12:20:53.252881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cho Atsu 2",
+      "artist": "BFN TOKYOTRILL",
+      "has_synced": false,
+      "path": "select/01_Cho_Atsu_2_BFN_TOKYOTRILL.txt"
+    }
+  ]
+}
